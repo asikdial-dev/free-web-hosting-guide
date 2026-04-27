@@ -736,11 +736,12 @@ If this guide saved you time or money, please consider giving it a ⭐
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" width="100%"/>
 
-**🔮 Maintained with ❤️ by [Asik Dial Kuffer](https://asikdial-tech.pro.bd/) | [AsikDial Tech](https://github.com/asikdial-tech)**
+**🔮 Maintained with ❤️ by [Asik Dial Kuffer](https://asikdial-tech.pro.bd/) | [asikdial.tech](https://github.com/asikdial-tech)**
+**[asikdial.dev](https://github.com/asikdial-dev)**
 
 📧 asikdial.tech@gmail.com · 🌐 asikdial-tech.pro.bd · 🌐 asikdial-tech.co.uk
 
-**Last Updated:** January 2026 · **Total Services:** 50+ · **Contributors Welcome!**
+**Last Updated:** April 2026 · **Total Services:** 50+ · **Contributors Welcome!**
 
 <br/>
 
