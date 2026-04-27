@@ -639,3 +639,92 @@
 ## 💡 Pro Tips for Choosing Free Hosting
 
 <div align="center">
+
+
+</div>
+
+---
+
+## 🤝 How to Contribute
+
+We ❤️ contributions from the community! This list is only as good as the people who help maintain it.
+
+### Ways to Contribute:
+
+1. ⭐ **Star** this repository — it takes 1 second and helps thousands of developers discover free hosting!
+2. 🍴 **Fork** this repository
+3. ✏️ **Add** a new hosting service with proper details
+4. 🐛 **Report** outdated information or broken links
+5. 📩 **Submit** a Pull Request
+
+### Contribution Rules:
+
+
+> 📖 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+
+---
+
+## 👤 About the Creator
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Created%20by-Asik%20Dial%20Kuffer-7C3AED?style=for-the-badge&logo=rocket&logoColor=white" alt="Creator"/>
+
+<br/><br/>
+
+| | |
+|---|---|
+| 👤 **Name** | **Asik Dial Kuffer** |
+| 💼 **Role** | Tech Entrepreneur |
+| 🌐 **Website** | [asikdial-tech.pro.bd](https://asikdial-tech.pro.bd/) |
+| 🌐 **Domain** | [asikdial-tech.co.uk](https://asikdial-tech.co.uk/) |
+| 📧 **Email** | [asikdial.tech@gmail.com](mailto:asikdial.tech@gmail.com) |
+| 💼 **LinkedIn** | [@asikdial-tech](https://linkedin.com/in/asikdial-tech) |
+| 🐦 **X (Twitter)** | [@AsikDialTech](https://x.com/AsikDialTech) |
+| 📸 **Instagram** | [@asikdial.tech](https://instagram.com/asikdial.tech) |
+| 📘 **Facebook** | [AsikDialTechBD](https://facebook.com/AsikDialTechBD) |
+| ✍️ **Medium** | [@asikdial-tech](https://medium.com/@asikdial-tech) |
+| 🐙 **GitHub** | [@asikdial-tech](https://github.com/asikdial-tech) |
+
+<br/>
+
+[![Website](https://img.shields.io/badge/🌐_Website-asikdial--tech.pro.bd-7C3AED?style=for-the-badge)](https://asikdial-tech.pro.bd/)
+[![Email](https://img.shields.io/badge/📧_Email-asikdial.tech@gmail.com-8B5CF6?style=for-the-badge)](mailto:asikdial.tech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AsikDial_Tech-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asikdial-tech)
+[![Twitter](https://img.shields.io/badge/X_(Twitter)-@AsikDialTech-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AsikDialTech)
+[![Instagram](https://img.shields.io/badge/Instagram-@asikdial.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/asikdial.tech)
+[![Facebook](https://img.shields.io/badge/Facebook-AsikDialTechBD-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/AsikDialTechBD)
+[![Medium](https://img.shields.io/badge/Medium-@asikdial--tech-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@asikdial-tech)
+
+</div>
+
+---
+
+## ⭐ Show Your Support
+
+<div align="center">
+
+If this guide saved you time or money, please consider giving it a ⭐
+
+**Every star helps another developer discover free hosting!**
+
+<br/>
+
+[![Star This Repo](https://img.shields.io/badge/⭐_STAR_THIS_REPOSITORY-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=6D28D9)](https://github.com/asikdial-tech/free-web-hosting-guide)
+
+<br/>
+
+**📢 Share with your network:**
+
+[![Share on Twitter](https://img.shields.io/badge/Share_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=🌐%20The%20Ultimate%20Free%20Web%20Hosting%20Guide%20(2026)%20-%2050%2B%20services%20curated%20by%20@AsikDialTech!&url=https://github.com/asikdial-tech/free-web-hosting-guide)
+[![Share on LinkedIn](https://img.shields.io/badge/Share_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/asikdial-tech/free-web-hosting-guide)
+[![Share on Facebook](https://img.shields.io/badge/Share_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/asikdial-tech/free-web-hosting-guide)
+[![Share on Reddit](https://img.shields.io/badge/Share_on_Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/submit?url=https://github.com/asikdial-tech/free-web-hosting-guide&title=The%20Ultimate%20Free%20Web%20Hosting%20Guide%202026)
+
+</div>
+
+---
+
+## 📜 License & Copyright
+
+
