@@ -1,5 +1,3 @@
-# free-web-hosting-guide
-🌐 The Ultimate Free Web Hosting Guide (2026) — 50+ curated free hosting services for developers, students &amp; startups. Updated weekly.
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Free%20Web%20Hosting%20Guide&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=The%20Most%20Complete%20Collection%20of%20Free%20Hosting%20Services%20%7C%202026&descSize=16&descAlignY=55" width="100%"/>
