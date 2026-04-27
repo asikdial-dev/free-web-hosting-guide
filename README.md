@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Curated by AsikDial Tech](https://img.shields.io/badge/Curated%20by-AsikDial%20Tech-7C3AED?style=for-the-badge&logo=rocket&logoColor=white)](https://asikdial-tech.pro.bd/)
+[![Curated by asikdial.tech](https://img.shields.io/badge/Curated%20by-AsikDial%20Tech-7C3AED?style=for-the-badge&logo=rocket&logoColor=white)](https://asikdial-tech.pro.bd/)
 [![GitHub stars](https://img.shields.io/github/stars/asikdial-tech/free-web-hosting-guide?style=for-the-badge&color=8B5CF6&logo=github)](https://github.com/asikdial-tech/free-web-hosting-guide/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/asikdial-tech/free-web-hosting-guide?style=for-the-badge&color=A78BFA&logo=github)](https://github.com/asikdial-tech/free-web-hosting-guide/network)
 [![License](https://img.shields.io/badge/License-MIT-6D28D9?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
